@@ -1,0 +1,2 @@
+lỗi previous declaration
+lỗi unused variables

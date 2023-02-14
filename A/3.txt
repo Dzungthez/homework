@@ -1,0 +1,1 @@
+Tích của hai giá trị int được tính là một giá trị int, sau đó mới được đổi thành một giá trị long. Tuy nhiên 65536 * 65536 = 2^32 là giá trị vượt ra ngoài khả năng lưu trữ của số int 32 bit trước khi nó được 

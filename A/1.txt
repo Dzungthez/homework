@@ -1,0 +1,2 @@
+lệnh bool cho trước sẽ gặp lỗi bởi không thể sử dụng 2 phép so sánh đồng thời.
+thay vào đó ta có thể viết bool isA = (90<= grade && grade <= 100);

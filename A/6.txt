@@ -1,0 +1,2 @@
+1. lỗi nhân một số nguyên với string ( không cùng format)
+2. lỗi chưa gán giá trị cho x
